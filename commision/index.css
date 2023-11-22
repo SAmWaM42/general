@@ -6,10 +6,15 @@
      padding:0%;
      color: whitesmoke;
 }
-.first
+.first 
 {
 margin: 20px;
 
+
+}
+.first h2
+{
+    font-size: 12px;
 }
 .who
 {
@@ -18,7 +23,7 @@ margin: 20px;
 .who h2
 {
 
-    font-size: 110px ;
+    font-size: 80px ;
     color: rgb(5, 5, 114);
     padding-left: 10px;
     letter-spacing: 2px;
@@ -27,7 +32,7 @@ margin: 20px;
 }
 .who p
 {
-    font-size: 45px ;
+    font-size: 25px ;
    
     padding-left: 10px;
    
@@ -45,11 +50,11 @@ margin: 20px;
 }
 .why_us
 {
-padding-left: 18%;
+padding-left: 45%;
 }
 
 .who span
-{font-size: 110px ;
+{font-size: 80px ;
     color: rgb(146, 3, 15);
     font-family: 'Times New Roman';
     padding-left: 10px;
@@ -89,6 +94,7 @@ padding-left: 18%;
 {
     background-color: rgba(0, 0, 255, 0.4);
     text-align: center;
+    font-size: 15px;
 }
 .logo
 {
@@ -121,7 +127,7 @@ opacity: 70%;
 
      padding-top: 95px;
     color: rgb(81, 34, 222);
-    font-size: 45px;
+    font-size: 35px;
    padding-right: 20px;
 }
 
@@ -138,7 +144,7 @@ opacity: 70%;
 } 
 h2
 {
-    font-size: 32px;
+    font-size: 20px;
 }
 h3{
     font-size: 20px;
@@ -147,7 +153,7 @@ h3{
 {
     background-color: black;
     border-radius: 12px;
-    font-size:45px;
+    font-size:35px;
 }
 
 .container1
@@ -158,8 +164,7 @@ h3{
     text-align: center;
     color:black;
     padding: 45px;
-
-    
+   
 
 }
 
@@ -176,6 +181,10 @@ background-color: black;
 width:100% ;
 height: cover ;
 text-align: center;
+}
+.contact h2
+{
+    font-size: 15px;
 }
 .map
 {
